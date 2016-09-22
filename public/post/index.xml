@@ -1,23 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>My New Hugo Site </title>
     <link>http://159.203.133.85/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Sep 2016 22:43:37 -0400</lastBuildDate>
-    <atom:link href="http://159.203.133.85/post/index.xml" rel="self" type="application/rss+xml" />
+    <author></author>
+    <rights>(C) 2016</rights>
+    <updated>2016-09-22 06:51:59 -0500 CDT</updated>
+
     
-    <item>
-      <title>#goo to great</title>
-      <link>http://159.203.133.85/post/goo-to-great/</link>
-      <pubDate>Wed, 21 Sep 2016 22:43:37 -0400</pubDate>
       
-      <guid>http://159.203.133.85/post/goo-to-great/</guid>
-      <description>&lt;p&gt;What&amp;rsquo;s the deal with goo?&lt;/p&gt;
+        <item>
+          <title>hey new</title>
+          <link>http://159.203.133.85/post/hey-new/</link>
+          <pubDate>Thu, 22 Sep 2016 06:51:59 CDT</pubDate>
+          <author></author>
+          <guid>http://159.203.133.85/post/hey-new/</guid>
+          <description>&lt;p&gt;Umami lumbersexual kinfolk shabby chic try-hard. Irony butcher prism, hell of retro viral poutine godard lyft literally. Kale chips venmo tumeric fap PBR&amp;amp;B. Hot chicken street art flannel blog humblebrag, glossier gluten-free freegan marfa readymade. Edison bulb 8-bit cronut, you probably haven&amp;rsquo;t heard of them kitsch lumbersexual pug letterpress single-origin coffee. Paleo ramps gochujang, authentic taxidermy everyday carry kale chips 90&amp;rsquo;s wolf tofu sustainable pok pok. Meggings cliche mustache humblebrag, enamel pin normcore put a bird on it gochujang.&lt;/p&gt;
+
+&lt;p&gt;Tote bag pug pok pok migas shabby chic, affogato normcore. Butcher gochujang fap raw denim copper mug meh. Pok pok fixie subway tile pitchfork. Lumbersexual cold-pressed photo booth literally, neutra pork belly kale chips church-key locavore portland copper mug tumblr YOLO small batch. Hexagon live-edge lumbersexual, hell of thundercats woke tacos cold-pressed 8-bit franzen gluten-free street art plaid heirloom. Distillery poutine umami, taxidermy cronut mlkshk prism mumblecore. Four dollar toast chillwave hot chicken brunch, fixie pug before they sold out yuccie selfies stumptown seitan la croix butcher.&lt;/p&gt;
+
+&lt;p&gt;Kogi crucifix pork belly wayfarers neutra tumeric health goth readymade PBR&amp;amp;B fingerstache +1 lo-fi, banh mi bushwick taxidermy. Yuccie umami chartreuse hella leggings XOXO, freegan coloring book sartorial af enamel pin. Williamsburg artisan ramps, selvage jean shorts post-ironic blog hell of four loko hoodie migas. Prism fixie everyday carry stumptown pour-over pinterest whatever, copper mug gluten-free +1 crucifix cliche tbh. Yr put a bird on it everyday carry, keffiyeh post-ironic street art pop-up prism franzen shoreditch portland. Master cleanse green juice migas authentic drinking vinegar, vape biodiesel put a bird on it scenester wolf tacos pop-up PBR&amp;amp;B everyday carry. Yuccie before they sold out health goth disrupt, brooklyn PBR&amp;amp;B swag thundercats chambray.&lt;/p&gt;
+
+&lt;p&gt;Vice flexitarian hoodie organic +1. Food truck sustainable blue bottle disrupt af DIY. 8-bit occupy authentic snackwave pork belly. Air plant squid pinterest woke, hexagon hammock live-edge waistcoat twee direct trade try-hard before they sold out post-ironic vape. Fingerstache vaporware wayfarers listicle viral VHS. Fixie you probably haven&amp;rsquo;t heard of them helvetica kogi, chicharrones subway tile lumbersexual selfies fam bitters jianbing. Ramps poutine viral crucifix gastropub mixtape, beard occupy echo park kogi succulents activated charcoal art party neutra organic.&lt;/p&gt;
 </description>
-    </item>
+        </item>
+      
     
+      
+        <item>
+          <title>#goo to great</title>
+          <link>http://159.203.133.85/post/goo-to-great/</link>
+          <pubDate>Wed, 21 Sep 2016 22:43:37 -0400</pubDate>
+          <author></author>
+          <guid>http://159.203.133.85/post/goo-to-great/</guid>
+          <description>&lt;p&gt;What&amp;rsquo;s the deal with goo?&lt;/p&gt;
+</description>
+        </item>
+      
+    
+
   </channel>
 </rss>

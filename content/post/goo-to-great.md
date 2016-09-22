@@ -1,6 +1,6 @@
 +++
-date = "2016-09-21T06:50:10-05:00"
-draft = true
+date = "2016-09-21T22:43:37-04:00"
+draft = false
 title = "#goo to great"
 
 +++

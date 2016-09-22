@@ -1,0 +1,7 @@
+hugo /home/hugo/blog admin {
+    root      public           # the folder where Hugo generates the website
+    basicauth /admin user pass # protect the admin area using HTTP basic auth
+    hugo
+}
+tls twermund@gmail.com
+

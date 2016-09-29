@@ -1,0 +1,5 @@
+162.144.12.168
+
+wp_posts
+
+db = dataset.connect('mysql+mysqldb://lickhic_twirm:Britian33nhaof@162.144.12.168/lickhic_lick01')
